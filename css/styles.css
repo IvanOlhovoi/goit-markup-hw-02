@@ -18,7 +18,7 @@
   background-color: var(--color-white);
   color: var(--color-primary-text);
 }
-ul { 
+ul{ 
   list-style: none; 
 }
 .container-header{
@@ -151,10 +151,13 @@ ul {
 }
 .word-meaning{
   font-weight: 400;
-  line-height: 1.42;
+  line-height: 1.71;
   text-align: left;
   vertical-align: top;
   color: var(--color-secondary-text); 
+}
+.our-team{
+  background-color: var(--color-secondary-background);
 }
 .container {
   width: 1200px;
@@ -272,4 +275,7 @@ img {
   text-align: left;
   vertical-align: top;
   color: var(--color-secondary-text);
+}
+.link-portfolio{
+  text-decoration: none;
 }
